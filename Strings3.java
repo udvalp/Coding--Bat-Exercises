@@ -13,6 +13,7 @@ public class Strings3 {
 		if(string.length()<2)return string;
 		
 		
+		
 		return string;
 	}
 
