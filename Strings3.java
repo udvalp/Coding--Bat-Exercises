@@ -12,8 +12,6 @@ public class Strings3 {
 	static public String sameEnds(String string) {
 		if(string.length()<2)return string;
 		
-		
-		
 		return string;
 	}
 
