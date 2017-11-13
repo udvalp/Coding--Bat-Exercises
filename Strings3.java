@@ -16,6 +16,12 @@ public class Strings3 {
 	}
 	
 	
+
+/*	Given a string and an int n, return a string made of n repetitions of the last n characters of the string. You may assume that n is between 0 and the length of the string, inclusive.
+*/	public String repeatEnd(String str, int n) {
+		  
+	}
+	
 	public boolean prefixAgain(String str, int n) {
 		  if(str.length()<n)return false;
 			
