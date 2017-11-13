@@ -14,6 +14,19 @@ public class Strings3 {
 		
 		return string;
 	}
+	
+	
+	public boolean prefixAgain(String str, int n) {
+		if(str.length()<n)return false;
+		
+		String subStr = str.substring(0,n);
+		if(str.indexOf(subStr)>0)
+			return true;
+		else 
+			return false;
+		  
+	}
+
 
 
 }
